@@ -1,0 +1,16 @@
+LTO_ENABLE      = yes       # Link Time Optimization (keeps flash usage down)
+BOOTMAGIC_ENABLE = no
+MOUSEKEY_ENABLE = yes       # Mouse keys
+EXTRAKEY_ENABLE = no
+CONSOLE_ENABLE  = no
+COMMAND_ENABLE  = no
+NKRO_ENABLE     = no
+BACKLIGHT_ENABLE = no
+AUDIO_ENABLE    = no
+RGBLIGHT_ENABLE = no
+SWAP_HANDS_ENABLE = no
+OLED_ENABLE     = yes       # OLED display
+WPM_ENABLE      = yes       # Words-per-minute tracking (drives the cat)
+VIA_ENABLE      = yes       # keep VIA remapping
+
+SRC += bongocat.c           # WPM-reactive bongo cat frames + renderer
