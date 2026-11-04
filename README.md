@@ -26,7 +26,7 @@ What the OLEDs show (firmware v1.3.0):
 - **Left half:** the Apollo58 name, live typing speed (WPM), the active layer, Caps Lock, and which VIA macro just fired.
 - **Right half:** every key you type falls down the screen like rain. Shift, Ctrl and Cmd/Windows fall as icons, and the Cmd or Windows icon is picked automatically for the computer you're plugged into.
 
-![Shoulders open, wrists straight](images/apollo58-posture-compare.jpg)
+![Apollo58 left and right halves in KC Ranuw keycaps](images/apollo58-kc-ranuw.jpg)
 
 ## Quick links
 
